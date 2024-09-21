@@ -11,7 +11,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 import keyboard
 
-bot = Bot("7449823563:AAF7uOmhDNrLdoJl5jM7EgljedrdqZGHt0U")
+bot = Bot("")
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
 
